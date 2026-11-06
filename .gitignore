@@ -1,0 +1,4 @@
+.DS_Store
+*.app
+release/
+diagnostic.log
